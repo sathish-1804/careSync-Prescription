@@ -2,5 +2,6 @@ Flask
 Flask-SQLAlchemy 
 Flask-CORS 
 Flask-Migrate 
-azure-storage-blob dotenv 
+azure-storage-blob 
+dotenv 
 gunicorn
